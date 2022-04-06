@@ -3,6 +3,6 @@ This application calculates the ontario tax and federal taxes based on taxable i
 
 # Set Up
 
-- Npm installt
+- Npm install
 - Npm test
 - Npm start
